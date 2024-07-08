@@ -1,5 +1,9 @@
 ## Hello, I'm Jeremy! 👋
 
+<div align="center" dir="auto">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxaWV4aW92cXM0M3RyaGRrbWlmMmlkOXZieTgzY2phaGJ6Z2cxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/200.webp"><p><a href="https://giphy.com/gifs/videogames-y0NFayaBeiWEU">via GIPHY</a></p>
+</div>
+
 - 🔭 I’m currently working on Web Frontend Development.
 - 🌱 I’m currently learning more about web design and development through BYU-Idaho and plan to graduate after Winter Semester 2025. 
 - ⚡ Fun fact: I love to play video games, watch football (Fall is the best season), and work on my creativity in graphic design.
