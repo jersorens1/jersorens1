@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently working on Web Frontend Development.
-- 🌱 I’m currently learning more about web design and development through BYU-Idaho and plan to graduate after Winter Semester 2025. 
+- 🌱 I’m currently learning more about web design and development through BYU-Idaho in the Applied Technologies degree and plan to graduate December Semester 2024. 
 - ⚡ Fun fact: I love to play video games, watch football (Fall is the best season), and work on my creativity in graphic design.
 
 <div align="center" dir="auto">
