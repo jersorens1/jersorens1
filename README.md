@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently on the look out for a career opportunity where I can use the skills I have, and eager to learn and grow.
-- 🌱 I granduated with an Associate's Degree in the Applied Technologies through BYU-Idaho where I learned about web design and development. 
+- 🌱 I granduated in December 2024 with an Associate's Degree in the Applied Technologies through BYU-Idaho, where I learned about web design and development. 
 - ⚡ Fun fact: I love to play video games, watch football (Fall is the best season), and work on my creativity in graphic design.
 
 <div align="center" dir="auto">
