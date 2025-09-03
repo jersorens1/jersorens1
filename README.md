@@ -4,8 +4,8 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxaWV4aW92cXM0M3RyaGRrbWlmMmlkOXZieTgzY2phaGJ6Z2cxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y0NFayaBeiWEU/200.webp"><p><a href="https://giphy.com/gifs/videogames-y0NFayaBeiWEU">via GIPHY</a></p>
 </div>
 
-- 🔭 I’m currently working on Web Frontend Development.
-- 🌱 I’m currently learning more about web design and development through BYU-Idaho in the Applied Technologies degree and plan to graduate December Semester 2024. 
+- 🔭 I’m currently on the look out for a career opportunity where I can use the skills I have, and eager to learn and grow.
+- 🌱 I granduated with an Associate's Degree in the Applied Technologies through BYU-Idaho where I learned about web design and development. 
 - ⚡ Fun fact: I love to play video games, watch football (Fall is the best season), and work on my creativity in graphic design.
 
 <div align="center" dir="auto">
